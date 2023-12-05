@@ -1,0 +1,29 @@
+.navbar-section{
+     background-color: #D2E9E9; 
+     box-shadow: 11px 2px 6px gray;
+     position: fixed !important;
+     left: 0;
+     right: 0;
+     top:0px;
+     margin-bottom: 200px;
+     z-index: 9;
+    
+    
+    
+   
+}
+.navbar-brand img {
+     width: 135px !important;
+}
+.search-section {
+     margin-left: 33px;
+ }
+
+ .header-search-input input{
+     background-color:#396565;
+     border-radius: 10px;
+     color:white
+ }
+ .header-search-input input::placeholder{
+     color:white
+ }

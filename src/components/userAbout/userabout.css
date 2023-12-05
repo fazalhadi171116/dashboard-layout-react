@@ -1,0 +1,72 @@
+/* Today Working on the design of the status deshaboard layout */
+
+.main-card{
+    
+   border-radius: 10px;
+    padding: 10px 10px;
+    background-color: #C4DFDF;
+   
+}
+.main-card:hover{
+background-color: #f0f0f0;
+cursor: pointer;
+}
+.card-content{
+    text-align: center;
+}
+.img-section{
+    display: block;
+    text-align: center;
+}
+.img-section{
+    position: relative;
+}
+.img-section img{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    padding: 10px;
+ object-fit: cover;
+    border-radius: 30%;
+}
+.img-sec-icon{
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+    width: 25px;
+    height: 25px;
+    line-height: 22px;
+    background-color: rgb(49, 26, 56);
+    border-radius: 4px;
+    color:white;
+}
+
+.card-icon i{
+    width: 25px;
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    background-color: rgb(27, 131, 126);
+    text-align: center;
+    border-radius: 3px;
+    color:white;
+}
+.card-body{
+    position: relative;
+}
+.card-profile-edit-sec{
+    position: absolute;
+    top:10px;
+    right: 10px;
+    cursor: pointer;
+    
+}
+.card-profile-edit-sec i{
+    cursor: pointer;
+    font-size: 20px;
+}
+.about-search-input input{
+    background-color:#D2E9E9;
+    border-radius: 10px;
+    color:white
+}
