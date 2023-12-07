@@ -68,6 +68,48 @@
       "email": "olivia@gm.com",
       "phone": "555-5555",
       "image": "/images/download.jfif"
+    },
+    {
+      "name": "Jane Smith",
+      "position": "Product Manager",
+      "email": "jane.smith@gm.com",
+      "phone": "555-5678",
+      "image": "/images/a1.jpg"
+    },
+    {
+      "name": "Bob Johnson",
+      "position": "UI/UX Designer",
+      "email": "johnson@gm.com",
+      "phone": "555-9876",
+      "image": "/images/a2.jpg"
+    },
+    {
+      "name": "Alice Williams",
+      "position": "Data Scientist",
+      "email": "alice@gm.com",
+      "phone": "555-4321",
+      "image": "/images/a3.jpg"
+    },
+    {
+      "name": "Charlie Brown",
+      "position": "Marketing Specialist",
+      "email": "charlie@gm.com",
+      "phone": "555-8765",
+      "image": "/images/a1.jpg"
+    },
+    {
+      "name": "Eva Martinez",
+      "position": "Graphic Designer",
+      "email": "eva@gm.com",
+      "phone": "555-1111",
+      "image": "/images/a5.jpg"
+    },
+    {
+      "name": "Michael Turner",
+      "position": "Project Manager",
+      "email": "michael@gm.com",
+      "phone": "555-2222",
+      "image": "/images/a6.jpg"
     }
     
   ]

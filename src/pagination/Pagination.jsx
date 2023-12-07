@@ -3,7 +3,7 @@ import UserCard from "../components/userCard/UserCard";
 import data from "../components/data/data.json";
 
 const Pagination = ({ allData }) => {
-  const itemsPerPage = 5;
+  const itemsPerPage = 10;
 
   // Example data
   const [data, setData] = useState([...allData]);
@@ -39,8 +39,8 @@ const Pagination = ({ allData }) => {
       </div>
 
 
-      <nav aria-label="Page navigation example ">
-        <ul className="pagination d-flex justify-content-end">
+      <nav aria-label="Page navigation example">
+        <ul className="pagination d-flex justify-content-end mt-3">
           <li className={`page-item ${currentPage === 1 && "disabled"}`}>
             <button
               className="page-link"
