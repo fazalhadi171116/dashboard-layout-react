@@ -1,5 +1,6 @@
 import React from "react";
 import Sidebar from "../sidebar/Sidebar";
+import UserCard from "../userCard/UserCard";
 
 const Dashboard = () => {
   return (
