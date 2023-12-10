@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./userabout.css";
 import Sidebar from "../sidebar/Sidebar";
-import Pagination from "../../pagination/Pagination";
+import Pagination from "../../pagination/Paginationss";
 import UserCard from "../userCard/UserCard";
 import data from "../data/data.json";
 

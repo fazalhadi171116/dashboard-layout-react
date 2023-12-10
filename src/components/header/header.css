@@ -6,7 +6,7 @@
      right: 0;
      top:0px;
      margin-bottom: 200px;
-     z-index: 9;
+     z-index: 99;
     
     
     
@@ -27,3 +27,7 @@
  .header-search-input input::placeholder{
      color:white
  }
+
+ /* .header-search-input input{
+    display: none;
+ } */

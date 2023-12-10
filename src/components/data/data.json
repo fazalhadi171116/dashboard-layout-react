@@ -2,14 +2,14 @@
     {
       "name": "John Doe",
       "position": "Software Engineer",
-      "email": "john.doe@gm.com",
+      "email": "johndoe@gm.com",
       "phone": "555-1234",
       "image": "/images/download.jfif"
     },
     {
       "name": "Jane Smith",
       "position": "Product Manager",
-      "email": "jane.smith@gm.com",
+      "email": "jane@gm.com",
       "phone": "555-5678",
       "image": "/images/a1.jpg"
     },
@@ -72,7 +72,7 @@
     {
       "name": "Jane Smith",
       "position": "Product Manager",
-      "email": "jane.smith@gm.com",
+      "email": "jane@gm.com",
       "phone": "555-5678",
       "image": "/images/a1.jpg"
     },

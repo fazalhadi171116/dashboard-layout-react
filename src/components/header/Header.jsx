@@ -1,10 +1,12 @@
 import React from "react";
 import "./header.css";
 
+
 const Header = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-info navbar-section ">
+    
+      <nav className="navbar navbar-expand-lg navbar-white navbar-section ">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             <img

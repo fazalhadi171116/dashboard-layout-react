@@ -1,0 +1,97 @@
+ 
+* {
+    box-sizing: border-box;
+   }
+    
+  
+    
+   h3 {
+    margin: 10px 0;
+   }
+    
+   h6 {
+    margin: 5px 0;
+    text-transform: uppercase;
+   }
+    
+   p {
+    font-size: 14px;
+    line-height: 21px;
+   }
+    
+   .card-container {
+    /* background-color: #231E39; */
+    background-color: #D2E9E9; 
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px;
+    border-radius: 25px;
+    /* box-shadow: 10px 10px 15px rgba(0,0,0,0.35); */
+    color: #141414;
+    padding: 30px 0 0;
+    position: relative;
+    width: 250px;
+    max-width: 100%;
+    text-align: center;
+    margin: 20px 0;
+    overflow: hidden;
+   }
+    
+   .card-container .pro {
+    color: hsl(251, 31%, 17%);
+    color:black !important;
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px 7px;
+    position: absolute;
+    top: 23px;
+    right: 22px;
+    z-index: 2;
+   }
+    
+   .card-container img {
+    border: 1px solid #080808;
+    border-radius: 50%;
+    padding: 7px;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+   }
+    
+   button.primary {
+    background-color: #C400D7;
+    border: 1px solid #C400D7;
+    border-radius: 3px;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+   }
+    
+   button.primary.ghost {
+    background-color: transparent;
+    color: #C400D7;
+   }
+    
+   .skills {
+    /* background-color: #1F1A36; */
+    background-color: #D2E9E9; 
+    text-align: left;
+    padding: 15px;
+    margin-top: 20px;
+   }
+    
+   .skills ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   }
+    
+   .skills ul li {
+    /* border: 1px solid #2D2747; */
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 7px 7px 0;
+    padding: 4px;
+   }
